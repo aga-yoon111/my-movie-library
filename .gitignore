@@ -1,0 +1,13 @@
+# Ignorar pastas comuns
+node_modules/
+.vscode/
+dist/
+build/
+.env
+
+# Arquivos inúteis
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
